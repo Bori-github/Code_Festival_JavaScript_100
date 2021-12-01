@@ -1,1 +1,1 @@
-# Code_Festival_JavaScript_100-
+# Code_Festival_JavaScript_100
