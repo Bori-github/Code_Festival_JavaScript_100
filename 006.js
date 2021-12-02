@@ -5,3 +5,11 @@ console.log(1 == true); // true
 console.log("" == true);
 console.log(0 == true);
 console.log(undefined == true);
+console.log(" ");
+console.log(Boolean());
+console.log(Boolean(0));
+console.log(Boolean(-0));
+console.log(Boolean(null));
+console.log(Boolean(false));
+console.log(Boolean(NaN));
+console.log(Boolean(undefined));
